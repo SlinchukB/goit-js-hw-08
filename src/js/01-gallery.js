@@ -29,3 +29,4 @@ function createGallery(galleryItems) {
 // Change code below this line
 
 console.log(galleryItems);
+
